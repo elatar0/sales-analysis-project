@@ -58,8 +58,3 @@ Sales by Categories & Brands
 - Brand contribution varies across categories
 
 ---
-
-## 📊 Dashboard Preview
-![Dashboard](./dashboard.png)
-
----
